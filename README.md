@@ -1,5 +1,5 @@
 # Semantic-Data-Management
-# Ontology-Based Publication System
+# Knowledge Graph Exploration using GraphDB,SPARQL and RDF Technologies
 
 ## Project Overview
 
@@ -25,9 +25,9 @@
 
 ## Contributors
 
-- [Your Name]
-- [Haftamu Hailu Tefera]
-- [Yuhsuan, Chen]
+
+- Haftamu Hailu Tefera
+- Yuhsuan, Chen
 
 ## License
 
