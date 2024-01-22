@@ -1,5 +1,5 @@
-# Semantic-Data-Management
-# Knowledge Graph Exploration using GraphDB,SPARQL and RDF Technologies
+
+# Knowledge Graph Exploration using GraphDB, SPARQL and RDF
 
 ## Project Overview
 
