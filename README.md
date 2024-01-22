@@ -20,29 +20,14 @@
 
 ## Repository Structure
 
-- **/ontology:** Contains files related to ontology definition (TBOX).
-- **/data:** Includes datasets in CSV format.
-- **/rdf_conversion:** OpenRefine project files for converting CSV to RDF.
+- **/Report:** Contain the project report.
 
-## Usage
-
-1. **Ontology Definition:**
-   - Explore `/ontology` for the TBOX definition in Protege.
-   
-2. **Dataset Transformation:**
-   - Utilize OpenRefine in `/rdf_conversion` to transform CSV datasets into RDF format.
-   
-3. **Linking ABOX to TBOX:**
-   - Use SPARQL queries in `/rdf_conversion` to establish links between ABOX and TBOX.
-
-4. **Analytical Queries:**
-   - Leverage SPARQL queries in `/rdf_conversion` for analytical insights.
 
 ## Contributors
 
 - [Your Name]
-- [Collaborator 1]
-- [Collaborator 2]
+- [Haftamu Hailu Tefera]
+- [Yuhsuan, Chen]
 
 ## License
 
