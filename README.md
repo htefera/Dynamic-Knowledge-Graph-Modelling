@@ -20,7 +20,7 @@
 
 ## Repository Structure
 
-- **/Report:** Contain the project report.
+- **Report:** Contain the project report.
 
 
 ## Contributors
