@@ -1,5 +1,5 @@
 
-# Knowledge Graphs  Modeling and Querying 
+# Knowledge Graph Modeling and Querying 
 ### Tools
 - GraphDB, SPARQL, and RDF
 ## Project Overview
