@@ -1,5 +1,5 @@
 
-# Knowledge Graph Exploration using GraphDB, SPARQL and RDF
+# Exploring Knowledge Graphs with GraphDB, SPARQL, and RDF
 
 ## Project Overview
 
