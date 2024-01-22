@@ -1,6 +1,7 @@
 
-# Exploring Knowledge Graphs with GraphDB, SPARQL, and RDF
-
+# Knowledge Graphs  Modeling and Querying 
+### Tools
+- GraphDB, SPARQL, and RDF
 ## Project Overview
 
 1. **Ontology Development:**
